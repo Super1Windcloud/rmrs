@@ -6,6 +6,9 @@ authors = ["superwindcloud <<EMAIL>>"]
 homepage = "https://github.com/super1windcloud/rmrs"
 publish = true
 repository = "https://github.com/super1windcloud/rmrs"
+license = "MIT OR Apache-2.0"
+description = "A Rust library for parallel processing and data processing"
+
 
 [dependencies]
 crossbeam-channel = "0.5"
