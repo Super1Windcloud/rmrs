@@ -1,0 +1,14 @@
+[package]
+name = "rmrs"
+version = "0.1.0"
+edition = "2024"
+authors = ["superwindcloud <<EMAIL>>"]
+homepage = "https://github.com/super1windcloud/rmrs"
+publish = true
+repository = "https://github.com/super1windcloud/rmrs"
+
+[dependencies]
+crossbeam-channel = "0.5"
+num_cpus = "1.0"
+rayon = "1.11.0"
+
